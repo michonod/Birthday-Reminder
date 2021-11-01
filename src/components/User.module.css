@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.info {
+  text-align: left;
+}
+
+.name {
+  font-size: 18px;
+}
+
+.years {
+  font-size: 15px;
+}
+
+.img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+  border: 2px solid rgba(255, 255, 255, 0.658);
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+h2 {
+  padding: 20px;
+}
